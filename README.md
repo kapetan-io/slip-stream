@@ -12,5 +12,8 @@ to do the efficient thing, or the fast thing we will always choose efficient.
 * Complexity is handled by the service, with very simple client implementations. Allowing easy integration with
   slip-stream.
 
+### Design
+See our [Architecture Decision Docs](doc/adr) for details on our current implementation design.
+
 #### TODO
 * [ ] Everything
